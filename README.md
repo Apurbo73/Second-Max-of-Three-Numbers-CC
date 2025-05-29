@@ -1,4 +1,4 @@
-﻿# Second Max of Three Numbers CC:-
+### Second Max of Three Numbers CC:-
 
 
 ---
