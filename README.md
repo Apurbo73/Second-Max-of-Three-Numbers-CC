@@ -1,8 +1,6 @@
 ﻿# Second-Max-of-Three-Numbers-CC
 
 
-Sure! Here's a clear explanation of what this C++ code does:
-
 ---
 
 ### ✅ **Purpose:**
