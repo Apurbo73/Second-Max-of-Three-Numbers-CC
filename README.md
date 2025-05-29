@@ -95,3 +95,9 @@ int main() {
 ### ✅ Summary:
 
 For each test case, the code reads 3 numbers, sorts them, and prints the one that is **neither the smallest nor the largest** — effectively the **median of the three**.
+
+
+This C++ program reads a number of test cases, and for each one, it takes three integers as input. It stores these integers in a vector and then sorts the vector in ascending order using `sort()`. Sorting ensures the numbers are arranged from smallest to largest.
+
+After sorting, the program prints the second element of the vector (index 1), which represents the middle value — the number that is neither the smallest nor the largest. This effectively gives the median of the three numbers for each test case.
+
